@@ -29,7 +29,7 @@ This API is intended for stand-alone usage, meaning that you do not need to run 
 
 First, you need to setup the dependency inside of your pom.xml. Replace **VERSION** with the version of the release.
 
-Maven
+> Maven
 ```xml
 <repositories>
     <repository>
