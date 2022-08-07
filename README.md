@@ -5,7 +5,7 @@
 [![badge](https://img.shields.io/discord/476842419904708608?label=discord)](https://discord.gg/hyperlands)
 [![badge](https://img.shields.io/github/license/Swofty-Developments/HyperlandsAPI)](https://github.com/Swofty-Developments/HyperlandsAPI/blob/master/LICENSE.txt)
 
-**[JavaDoc 1.0.0](https://hyperlandsdoc.swofty.net/)**
+**[JavaDoc 1.0.0](https://swofty-developments.github.io/HyperlandsAPI/)**
 
 Lightweight and fully documented Java implementation of the Hyperlands Public API.
 
