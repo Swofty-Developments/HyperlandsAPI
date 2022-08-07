@@ -145,7 +145,7 @@ public class PlayerManager {
        * It takes a player's username, and returns a list of all the usernames that are similar to it
        *
        * @param playerUsername The username of the player you want to search for.
-       * @return A list of strings.
+       * @return A future object that contains a list of strings
        */
       public Future<List<String>> executeFuzzySearch(String playerUsername) {
             return executor.submit(() -> {

@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"net.swofty.hyperlandsapi"},{"l":"net.swofty.hyperlandsapi.datatypes"},{"l":"net.swofty.hyperlandsapi.datatypes.playercounts"},{"l":"net.swofty.hyperlandsapi.datatypes.statistics"},{"l":"net.swofty.hyperlandsapi.exceptions"},{"l":"net.swofty.hyperlandsapi.managers"}];updateSearchResults();
